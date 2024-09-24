@@ -5,7 +5,7 @@ function About() {
     <div className="flex flex-col md:flex-row items-start mt-14 px-4 md:px-8 lg:px-16">
       <img
         className="w-28 md:w-52 lg:w-64 mb-6 md:mb-0 md:mr-6 lg:mr-12 rounded-lg shadow-lg transform transition-transform duration-300 hover:scale-105 "
-        src="../public/images/abut.png"
+        src="../images/abut.png"
         alt="About Me"
       />
       <div className="text-white font-bold md:w-3/4 bg-black p-6 rounded-lg shadow-lg md:bg-transparent">
