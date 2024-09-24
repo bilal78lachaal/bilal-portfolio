@@ -55,7 +55,7 @@ function Home() {
         <div className="flex justify-center md:justify-end mt-6 md:mt-0 md:w-1/2">
           <img
             className="w-40 sm:w-64 md:w-80 lg:w-96 opacity-75 hover:opacity-90 transition-opacity duration-300 rounded-lg shadow-lg"
-            src="./public/images/panl.png"
+            src="./images/panl.png"
             alt="Profile"
           />
         </div>
@@ -102,7 +102,7 @@ function Home() {
       <div className="flex flex-col md:flex-row items-start mt-12 px-4 md:px-8 lg:px-16">
         <img
           className="w-28 md:w-52 lg:w-64 mb-6 md:mb-0 md:mr-6 lg:mr-12 rounded-lg shadow-lg transform transition-transform duration-300 hover:scale-105 hidden md:block"
-          src="../public/images/abut.png"
+          src="../images/abut.png"
           alt="About Me"
         />
         <div className="text-white font-bold md:w-3/4 bg-black p-6 rounded-lg shadow-lg md:bg-transparent">
@@ -139,7 +139,7 @@ function Home() {
         <div className="flex flex-wrap justify-center gap-6 mt-6 mb-20">
           <div className="text-center">
             <img
-              src="/public/images/html (2).png"
+              src="/images/html (2).png"
               alt="HTML"
               className="w-12 h-12 md:w-12 md:h-12 lg:w-14 lg:h-14 transform transition-transform duration-500 hover:scale-125 hover:rotate-12"
             />
@@ -147,7 +147,7 @@ function Home() {
           </div>
           <div className="text-center">
             <img
-              src="/public/images/css.png"
+              src="/images/css.png"
               alt="CSS"
               className="w-12 h-12 md:w-12 md:h-12 lg:w-14 lg:h-14 transform transition-transform duration-500 hover:scale-125 hover:rotate-12"
             />
@@ -155,7 +155,7 @@ function Home() {
           </div>
           <div className="text-center">
             <img
-              src="/public/images/bootstrap-framework.png"
+              src="/images/bootstrap-framework.png"
               alt="Bootstrap"
               className="w-12 h-12 md:w-12 md:h-12 lg:w-14 lg:h-14 transform transition-transform duration-500 hover:scale-125 hover:rotate-12"
             />
@@ -163,7 +163,7 @@ function Home() {
           </div>
           <div className="text-center">
             <img
-              src="/public/images/tailwind-css.png"
+              src="/images/tailwind-css.png"
               alt="Tailwind"
               className="w-12 h-12 md:w-12 md:h-12 lg:w-14 lg:h-14 transform transition-transform duration-500 hover:scale-125 hover:rotate-12"
             />
@@ -171,7 +171,7 @@ function Home() {
           </div>
           <div className="text-center">
             <img
-              src="/public/images/javascript.png"
+              src="/images/javascript.png"
               alt="JavaScript"
               className="w-12 h-12 md:w-12 md:h-12 lg:w-14 lg:h-14 transform transition-transform duration-500 hover:scale-125 hover:rotate-12"
             />
@@ -179,7 +179,7 @@ function Home() {
           </div>
           <div className="text-center">
             <img
-              src="/public/images/react.png"
+              src="/images/react.png"
               alt="React"
               className="w-12 h-12 md:w-12 md:h-12 lg:w-14 lg:h-14 transform transition-transform duration-500 hover:scale-125 hover:rotate-12"
             />
@@ -187,7 +187,7 @@ function Home() {
           </div>
           <div className="text-center">
             <img
-              src="/public/images/sql.png"
+              src="/images/sql.png"
               alt="SQL"
               className="w-12 h-12 md:w-12 md:h-12 lg:w-14 lg:h-14 transform transition-transform duration-500 hover:scale-125 hover:rotate-12"
             />
@@ -195,7 +195,7 @@ function Home() {
           </div>
           <div className="text-center">
             <img
-              src="/public/images/laravel-framework.png"
+              src="/images/laravel-framework.png"
               alt="Laravel"
               className="w-12 h-12 md:w-12 md:h-12 lg:w-14 lg:h-14 transform transition-transform duration-500 hover:scale-125 hover:rotate-12"
             />
