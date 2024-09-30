@@ -1,7 +1,7 @@
 import React from "react";
 
 function CV() {
-  const cvUrl = "../public/images/cv_bilal1.pdf";
+  const cvUrl = "../images/cv_bilal1.pdf";
 
   return (
     <div className="relative group flex justify-center md:justify-between ">
