@@ -1,5 +1,6 @@
 import React, { useState } from "react";
 import emailjs from "emailjs-com";
+import Cv from "../Cv"
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import {
   faLinkedinIn,
@@ -50,6 +51,8 @@ function Home() {
             I create websites with ease, ensuring smooth and effective results.
             I'm dedicated to transforming your vision into reality and
             delivering unique, engaging digital experiences.
+            <Cv/>
+
           </h3>
         </div>
         <div className="flex justify-center md:justify-end mt-6 md:mt-0 md:w-1/2">
